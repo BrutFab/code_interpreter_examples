@@ -5,7 +5,7 @@ Welcome to the **OpenAI Code Interpreter Tutorial** from the **BrutFab** YouTube
 
 This tutorial contains a series of coding prompts to help you get hands-on experience with the OpenAI Code Interpreter. Each prompt is a challenge designed to make you think and apply what you've learned. 
 
-We strongly encourage you to watch our YouTube video where we walk through each of these prompts. It's a great way to see the OpenAI Code Interpreter in action and gain deeper understanding. You can find the video on [BrutFab YouTube Channel](https://www.youtube.com/channel/BrutFab).
+We strongly encourage you to watch our YouTube video where we walk through each of these prompts. It's a great way to see the OpenAI Code Interpreter in action and gain deeper understanding. You can find the video on [BrutFab YouTube Channel](https://www.youtube.com/channel/UCWLswLLUlVqWfVg8lLY5S9Q).
 
 Happy Coding!
 
