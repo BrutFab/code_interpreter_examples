@@ -23,3 +23,6 @@ Make a 512 x 512 GIF with falling green matrix letters. Assume no fonts, 30 fram
 
 ## Prompt 5:
 Solve the equation in this image , what is the value of 't'
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brutfab)
