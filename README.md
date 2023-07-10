@@ -16,7 +16,7 @@ Draw an interactive 3d surface map from this data file and output a downloadable
 Change the background of this profile image to a black background, output the result as a downloadable jpg file
 
 ## Prompt 3:
-Create a video of zooming in and zooming out of this image. the video should be 3 seconds, and output it as a downloadable file
+Create a video of zooming in and zooming out of this image. the video should be 90 frames 30fps, and output it as a downloadable file
 
 ## Prompt 4:
 Make a 512 x 512 GIF with falling green matrix letters. Assume no fonts, 30 frames 5fps. No talk, just go.
