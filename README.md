@@ -19,7 +19,7 @@ Change the background of this profile image to a black background, output the re
 Create a video of zooming in and zooming out of this image. the video should be 90 frames 30fps, and output it as a downloadable file
 
 ## Prompt 4:
-Make a 512 x 512 GIF with falling green matrix letters. Assume no fonts, 30 frames 5fps. No talk, just go.
+Make a 512 x 512 GIF with falling green matrix letters. Use any modern fonts, 30 frames 5fps. No talk, just go.
 
 ## Prompt 5:
 Solve the equation in this image , what is the value of 't'
